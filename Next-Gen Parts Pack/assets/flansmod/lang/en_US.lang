@@ -14,3 +14,7 @@ item.treatedWood.name=Treated Wood
 item.wiring.name=Wiring
 item.wiringDense.name=Dense Wiring
 item.rope.name=Rope
+item.platingWood.name=Wood Paneling
+item.platingHardIron.name=Hardened Iron Plating
+item.platingComposite.name=Composite Plating
+item.platingAdvComposite.name=Advanced Composite Plating
