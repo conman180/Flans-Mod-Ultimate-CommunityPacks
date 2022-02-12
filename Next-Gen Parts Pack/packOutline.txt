@@ -12,7 +12,6 @@ boxes for weapons, parts, and vehicle parts.
 
 
 //Base Parts
--tiers of plating [X] (still need textures)
 -basic electronics []
 -advanced electronics []
 
