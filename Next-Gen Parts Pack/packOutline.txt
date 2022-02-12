@@ -1,0 +1,108 @@
+//New Parts Pack Outline
+Next-Gen parts pack for new default packs for Flans mod
+
+Only the basest of materials should use normal workbench crafting. I will include some
+boxes for weapons, parts, and vehicle parts.
+
+//Boxes
+-Generic Parts Box(Parts for most everything not vehicle related)
+-Vehicle Weapons box(see section for weapon inclusions)
+-Vehicle Parts box
+-Tool Box(tool crafting)
+
+
+//Base Parts
+-Gunmetal Alloy [X]
+-some type of wood part(for old planes) [X]
+-tiers of plating [X]
+-basic electronics []
+-advanced electronics []
+-wiring [X]
+-dense wiring [X]
+-synthetic rubber [X] smelted from blend
+-rubber blend [X]
+-composite blend [X]
+-hardened composite [X] smelted from blend
+-plexiglass [X]
+-canvas [X]
+-rope [X]
+
+//Vehicle Parts
+"Structural Parts"
+-Seat(usable for all vehicles)[]
+-light Aircraft Wing(wood and Canvas type size doesnt matter, just require more)[]
+-small aircraft wing(metal)[] "fighters & such"
+-large aircraft wing(metal)[] "bombers & larger aircraft"
+-Helicopter Blades []
+-Helicopter Tail Rotor []
+-Helicopter Skids []
+-vehicle body []
+-tank body []
+-tank turet []
+-tank barrel []
+-tank tread []
+-small, medium, large aircraft wheel
+-wooden propeller
+-metal propeller
+-basic airframe
+-std airframe
+-adv airframe
+
+
+"engines" each category of config "WorksWith" and different tiers
+-basic aircraft engine 0.75x speed
+-standard aircraft engine 1.0x speed
+-adv aircraft engine 1.25x speed
+-RF aircraft engine 0.9x speed but uses RF items
+
+-basic vehicle engine 0.75x speed
+-standard vehicle engine 1.0x speed
+-adv vehicle engine 1.25x speed
+-RF vehicle engine 0.9x speed but uses RF items
+
+-basic mecha engine 0.75x speed
+-standard mecha engine 1.0x speed
+-adv mecha engine 1.25x speed
+-RF mecha engine 0.9x speed but uses RF items
+
+"engine parts"
+
+
+"other vehicle parts"
+-instrument gauges []
+-adv avionics []
+-vehicle controls []
+
+
+//Weapon Parts
+-gun stock
+-tiers of gun internals
+-gun body
+-gun rails
+-gun slide
+-bullet casing types (pistol, rifle, large caliber)
+-pistol round
+-small rifle round
+-large rifle round
+-gun barrel
+
+
+//Tools
+-Small Fuel Canister
+-Medium Fuel Canister
+-Large Fuel Canister
+-Extra Large Fuel Canister
+-Repair Torch
+-Advanced Repair Torch (quicker repair)
+-medkits
+-parachute (make new model)
+-mre pouch easy emergency food
+-remote detonator
+
+
+
+material tiers (structure
+ 1. wood
+ 2. hardened iron
+ 3. composite
+ 4. addvanced composite

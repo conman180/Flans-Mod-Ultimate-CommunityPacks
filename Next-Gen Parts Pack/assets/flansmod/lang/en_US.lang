@@ -1,0 +1,16 @@
+//Base Parts
+item.composite.name=Composite Ingot
+item.synthRubber.name=Synthetic Rubber Ingot
+item.rubberBlend.name=Synthetic Rubber Blend
+item.compositeBlend.name=Composite Blend
+item.gunmetalBlend.name=Gunmetal Blend
+item.gunmetal.name=Gunmetal Ingot
+item.plexiglass.name=Plexiglass
+item.advComposite.name=Advanced Composite Ingot
+item.advCompositeBlend.name=Advanced Composite Blend
+item.canvas.name=Canvas
+item.hardIron.name=Hardened Iron
+item.treatedWood.name=Treated Wood
+item.wiring.name=Wiring
+item.wiringDense.name=Dense Wiring
+item.rope.name=Rope
