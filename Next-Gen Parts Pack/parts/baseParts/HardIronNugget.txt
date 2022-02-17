@@ -1,14 +1,10 @@
-Name Hardened Iron Ingot
-ShortName hardIron
-Icon baseParts/hardIron
+Name Hardened Iron Nugget
+ShortName nuggetHardIron
+Icon baseParts/nuggetHardIron
 //Colour in Red, Green, Blue, each going up to 255.
 Colour 255 255 255
 //Categories are Cockpit, Wing, Engine, Propeller, Bay, Tail, Wheel, Chassis, Turret, Misc
 Category Misc
 StackSize 64
-RecipeOutput 1
-Recipe N nuggetHardIron
-NNN
-NNN
-NNN
-SmeltableFrom ingotIron
+RecipeOutput 9
+ShapelessRecipe hardIron
