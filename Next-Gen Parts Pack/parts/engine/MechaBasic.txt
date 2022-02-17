@@ -1,0 +1,14 @@
+Name Basic Mecha Engine
+ShortName engineMechaBasic
+Icon vehicleParts/engineMechaBasic
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+//Categories are Cockpit, Wing, Engine, Propeller, Bay, Tail, Wheel, Chassis, Turret, Misc
+Category Engine
+EngineSpeed 0.75
+FuelConsumption 1.75
+WorksWith mechas
+StackSize 4
+//Crafted in Vehicle Parts Box
+
+   

@@ -1,0 +1,14 @@
+Name Advanced Aircraft Engine
+ShortName engineAircraftAdv
+Icon vehicleParts/engineAircraftAdv
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+//Categories are Cockpit, Wing, Engine, Propeller, Bay, Tail, Wheel, Chassis, Turret, Misc
+Category Engine
+EngineSpeed 1.25
+FuelConsumption 0.8
+WorksWith planes
+StackSize 4
+//Crafted in Vehicle Parts Box
+
+   

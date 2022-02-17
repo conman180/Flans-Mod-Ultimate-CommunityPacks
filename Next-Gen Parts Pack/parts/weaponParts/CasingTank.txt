@@ -1,0 +1,9 @@
+Name Tank Shell Casing
+ShortName casingTank
+Icon weaponParts/casingTank
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+//Categories are Cockpit, Wing, Engine, Propeller, Bay, Tail, Wheel, Chassis, Turret, Misc
+Category Misc
+StackSize 64
+//Crafted in Weapon Parts Box
