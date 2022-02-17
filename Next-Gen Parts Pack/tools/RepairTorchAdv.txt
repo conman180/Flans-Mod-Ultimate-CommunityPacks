@@ -1,0 +1,13 @@
+Name Advanced Repair Torch
+ShortName repairTorchAdv
+Icon tools/repairTorchAdv
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+Heal false
+Repair true
+HealAmount 250
+ToolLife 32
+DestroyOnEmpty false
+StackSize 1
+RecipeOutput 1
+RechargeRecipe 4 biofuel

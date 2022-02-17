@@ -1,0 +1,13 @@
+Name First Aid Kit
+ShortName medkitSmall
+Icon tools/medkitSmall
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+Heal true
+Repair false
+HealAmount 7
+ToolLife 3
+DestroyOnEmpty false
+StackSize 1
+RecipeOutput 1
+Recipe
