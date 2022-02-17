@@ -1,0 +1,42 @@
+Name Weapon Parts Box
+ShortName weaponPartsBox
+TopTexture boxTop
+SideTexture boxSide
+BottomTexture boxBottom
+Recipe G gunmetal H hardIron
+GGG
+HHH
+HHH
+//8 gun tabs per pge
+SetPage Gun Parts
+AddGun gunInternalBasic 8 gunmetal 2 hardIron
+AddAmmo gunInternalStd 4 gunmetal 4 advComposite
+AddAltAmmo gunInternalAdv 8 advComposite 2 gunmetal
+AddGun gunBody 8 gunmetal
+AddGun gunBarrel 4 gunmetal
+AddGun gunStock 4 composite
+AddGun gunSlide 1 gunmetal
+AddAmmo gunPump 1 composite
+AddGun gunRails 3 gunmetal
+
+SetPage Weapon Parts
+AddGun rocketBody 2 platingHardIron
+AddGun rocketFins 1 platingHardIron
+AddGun rocketPropellant 4 biofuel
+AddGun weaponGuidance 1 electronics 1 wiring
+AddGun seekerSemiActive 1 wiring 2 redstone
+AddAmmo seekerActive 1 radar 1 wiring 2 redstone
+
+SetPage Bullet Parts
+AddGun roundPistol 1 nuggetHardIron
+AddAmmo roundRifleSmall 2 nuggetHardIron
+AddAltAmmo roundRifleLarge 3 nuggetHardIron
+AddAltAmmo roundCannonLight 4 nuggetHardIron
+AddAltAmmo roundCannonHeavy 5 nuggetHardIron
+AddAltAmmo roundTank 6 nuggetHardIron
+AddGun casingPistol 1 goldNugget
+AddAmmo casingRifleSmall 2 goldNugget
+AddAltAmmo casingRifleLarge 3 goldNugget
+AddAltAmmo casingCannonLight 4 goldNugget
+AddAltAmmo casingCannonHeavy 5 goldNugget
+AddAltAmmo casingTank 6 goldNugget
