@@ -1,0 +1,9 @@
+Name Small Rifle Casings
+ShortName casingRifleSmall
+Icon weaponParts/casingRifleSmall
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+//Categories are Cockpit, Wing, Engine, Propeller, Bay, Tail, Wheel, Chassis, Turret, Misc
+Category Misc
+StackSize 64
+//Crafted in Weapon Parts Box

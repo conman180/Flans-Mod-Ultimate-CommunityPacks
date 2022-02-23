@@ -1,0 +1,13 @@
+Name Light Cannon Bullet
+ShortName bulletCannonLight
+Icon weaponParts/bulletCannonLight
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+//Categories are Cockpit, Wing, Engine, Propeller, Bay, Tail, Wheel, Chassis, Turret, Misc
+Category Misc
+StackSize 64
+RecipeOutput 12
+Recipe C casingCannonLight G gunpowder R roundCannonLight
+  R
+  G
+  C

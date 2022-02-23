@@ -1,0 +1,16 @@
+Name RF Aircraft Engine
+ShortName engineAircraftRF
+Icon engine/engineAircraftRF
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+//Categories are Cockpit, Wing, Engine, Propeller, Bay, Tail, Wheel, Chassis, Turret, Misc
+Category Engine
+EngineSpeed 0.9
+FuelConsumption 1.0
+UseRF True
+RFDrawRate 1000
+WorksWith planes
+StackSize 4
+//Crafted in Vehicle Parts Box
+
+   
