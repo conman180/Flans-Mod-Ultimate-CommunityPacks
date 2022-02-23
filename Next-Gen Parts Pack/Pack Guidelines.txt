@@ -1,5 +1,0 @@
-Guidelines to contribute to the parts pack
-
-1.Icon images should be 32x32 pixels or smaller. Preferably 16x16 pixels
-
-2.Keep additions in distinct sub-folders. E.i parts/baseParts and parts/vehicleParts
