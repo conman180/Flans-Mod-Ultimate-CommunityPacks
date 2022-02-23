@@ -1,0 +1,14 @@
+Name Extra Large Fuel Can
+ShortName fuelCanXtraLarge
+Icon baseParts/fuelXtraLarge
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+//Categories are Cockpit, Wing, Engine, Propeller, Bay, Tail, Wheel, Chassis, Turret, Fuel, Misc
+Category Fuel
+Fuel 10000
+StackSize 4
+RecipeOutput 1
+Recipe C fuelCanLarge F biofuel
+CCF
+FFF
+FFF
