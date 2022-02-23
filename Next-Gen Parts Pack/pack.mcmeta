@@ -1,6 +1,6 @@
 {
     "pack": {
         "pack_format": 1,
-        "description": "Next-Gen Parts Pack for FM+USE packs."
+        "description": "Next-Gen Parts Pack for FM+USE packs. Requires FM+USE v1.51 or later"
     }
 }
