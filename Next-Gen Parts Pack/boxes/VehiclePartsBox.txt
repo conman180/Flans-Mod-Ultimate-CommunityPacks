@@ -1,0 +1,64 @@
+Name Vehicle Parts Box
+ShortName vehiclePartsBox
+TopTexture vehicleBoxTop
+SideTexture vehicleBoxSide
+BottomTexture boxBottom
+Recipe C composite H hardIron
+CHC
+HHH
+HHH
+//8 gun tabs per pge
+SetPage Aircraft Engines
+AddGun engineAircraftBasic 1 crankcase 6 enginePiston 1 crankshaft 8 redstone
+AddGun engineAircraftStd 1 crankcase 8 enginePiston 2 crankshaft 1 electronics
+AddGun engineAircraftAdv 1 turbineBlades 1 turbineHotSection 2 electronicsAdv 12 compositeAdv
+AddGun engineAircraftRF 1 crankcase 3 crankshaft 4 electronicsAdv 6 blockRedstone
+
+SetPage Vehicle Engines
+AddGun engineVehicleBasic 1 crankcase 6 enginePiston 1 crankshaft 8 redstone
+AddGun engineVehicleStd 1 crankcase 8 enginePiston 2 crankshaft 1 electronics
+AddGun engineVehicleAdv 1 crankcase 12 enginePiston 2 electronicsAdv 12 compositeAdv
+AddGun engineVehicleRF 1 crankcase 3 crankshaft 4 electronicsAdv 6 blockRedstone
+
+SetPage Mecha Engines
+AddGun engineMechaBasic 1 crankcase 6 enginePiston 1 crankshaft 8 redstone
+AddGun engineMechaStd 1 crankcase 8 enginePiston 2 crankshaft 1 electronics
+AddGun engineMechaAdv 1 crankcase 12 enginePiston 4 electronicsAdv 16 compositeAdv
+AddGun engineMechaRF 1 crankcase 3 crankshaft 6 electronicsAdv 6 blockRedstone
+
+SetPage Engine Parts
+AddGun enginePiston 7 hardIron
+AddGun crankshaft 6 hardIron
+AddGun crankcase 12 hardIron
+AddGun turbineBlades 8 advComposite
+AddGun turbineHotSection 4 hardIron 1 electronics 6 advComposite
+
+SetPage Vehicle Parts 1
+AddGun wheelLarge 3 hardIron 4 synthRubber
+AddAmmo wheelMedium 2 hardIron 3 synthRubber
+AddAltAmmo wheelSmall 1 hardIron 2 synthRubber
+AddGun vehicleBody 24 hardIron 8 wiring
+AddGun seat 3 hardIron 1 platingHardIron 2 cloth
+AddGun airframeBasic 12 platingWood 24 treatedWood 4 wiring 12 rope
+AddAmmo airframeStandard 12 platingComposite 4 hardIron 4 wiringDense
+AddAltAmmo airframeAdvanced 16 platingAdvComposite 10 advComposite 4 wiringDense
+AddGun tankBody 16 hardIron 12 platingHardIron 6 wiringDense
+AddGun tankTurret 8 platingHardIron 8 plexiglass 4 hardIron
+AddGun tankBarrel 6 hardIron
+AddGun tankTreads 8 wheelSmall 10 platingHardIron
+
+SetPage Vehicle Parts 2
+AddGun wingLarge 16 platingComposite 4 hardIron
+AddAmmo wingSmall 8 platingComposite 2 hardIron 2 advComposite
+AddAltAmmo wingLight 8 canvas 6 treatedWood
+AddGun propMetal 1 hardIron 3 advComposite
+AddAmmo propWood 1 hardIron 3 treatedWood
+AddGun heliBlades 1 hardIron 8 advCompostite
+AddGun heliSkids 8 hardIron
+AddGun heliTailRotor 1 hardIron 4 advComposite
+
+SetPage Components
+AddGun vehicleControls 3 lever 2 hardIron 1 wiring
+AddGun instrumentGauges 3 plexiglass 4 redstone 2 wiring 1 hardIron
+AddGun radar 2 electronicsAdv 5 wiringDense
+AddGun advAvionics 4 electronicsAdv 10 wiring 1 diamond 5 redstone 4 plexiglass

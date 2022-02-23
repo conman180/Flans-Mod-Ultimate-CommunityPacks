@@ -1,0 +1,17 @@
+Name Tool Box
+ShortName toolBox
+TopTexture boxTop
+SideTexture toolBoxSide
+BottomTexture boxBottom
+Recipe W wood P pickaxeIron C cloth I ingotIron
+WWW
+CPC
+III
+//8 gun tabs per pge
+SetPage Tools
+AddGun repairTorch 5 hardIron 3 biofuel
+AddGun repairTorchAdv 1 repairTorch 5 hardIron 4 biofuel
+AddGun detonator 2 wiring 1 composite 1 electronics
+AddGun medkitSmall
+AddGun medkitLarge
+AddGun parachute 6 rope 6 canvas
