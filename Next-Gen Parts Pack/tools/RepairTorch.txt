@@ -1,0 +1,13 @@
+Name Repair Torch
+ShortName repairTorch
+Icon tools/repairTorch
+//Colour in Red, Green, Blue, each going up to 255.
+Colour 255 255 255
+Heal false
+Repair true
+HealAmount 10
+ToolLife 100
+DestroyOnEmpty false
+StackSize 1
+RecipeOutput 1
+RechargeRecipe 3 biofuel
